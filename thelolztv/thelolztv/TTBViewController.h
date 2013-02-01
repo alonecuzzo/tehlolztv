@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TTBViewController : UIViewController
+@interface TTBViewController : UIViewController <UITextFieldDelegate>
+
 
 @end
